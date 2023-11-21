@@ -46,17 +46,8 @@ Estou sempre aberta a novas conexões e oportunidades de colaboração. Sinta-se
 Você pode entrar em contato comigo pelo email: naah.bs3@outlook.com
 
 Obrigado por visitar meu perfil! 😊
-## Estilo CSS
 
-Aqui está um exemplo de código CSS para adicionar cores preta e roxa escura à tela:
 
-```css
-body {
-    background-color: #000; /* Preto */
-    color: #8b008b; /* Roxo Escuro */
-}
-
-/* Adicione estilos adicionais conforme necessário */
 
 
 
