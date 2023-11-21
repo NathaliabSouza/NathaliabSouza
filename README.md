@@ -21,6 +21,8 @@ Estou entusiasmada com as oportunidades futuras no campo da tecnologia e estou s
 Estou sempre aberta a novas conexões e oportunidades de colaboração. Sinta-se à vontade para entrar em contato comigo se você compartilha interesses semelhantes ou se acredita que podemos trabalhar juntos.
 
 ## Conquistas
+![GIF Demonstrativo](https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif)
+
 
 - Concluí o bootcamp da Soul Code.
 - Atualmente cursando Gestão da Tecnologia da Informação na Impacta Tecnologia.
@@ -34,9 +36,10 @@ Estou sempre aberta a novas conexões e oportunidades de colaboração. Sinta-se
 
 ## Conecte-se Comigo
 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-NathaliaBernardo-blue)](https://www.linkedin.com/in/nathalia-bernardo-636488186/)
 [![GitHub](https://img.shields.io/badge/GitHub-NathaliaBernardo-green)](link_do_seu_repositorio_no_github)
-![GIF Demonstrativo](https://media.tenor.com/2GTfGOQMA-wAAAAC/computer-nerd.gif)
+
 
 
 ## Entre em Contato
