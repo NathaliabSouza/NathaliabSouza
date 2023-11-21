@@ -36,6 +36,8 @@ Estou sempre aberta a novas conexões e oportunidades de colaboração. Sinta-se
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-NathaliaBernardo-blue)](https://www.linkedin.com/in/nathalia-bernardo-636488186/)
 [![GitHub](https://img.shields.io/badge/GitHub-NathaliaBernardo-green)](link_do_seu_repositorio_no_github)
+![GIF Demonstrativo](https://media.tenor.com/2GTfGOQMA-wAAAAC/computer-nerd.gif)
+
 
 ## Entre em Contato
 
@@ -43,7 +45,7 @@ Você pode entrar em contato comigo pelo email: naah.bs3@outlook.com
 
 Obrigado por visitar meu perfil! 😊
 
-![GIF Demonstrativo](https://images-cdn.newscred.com/Zz04NjA3ZjljMjQ0ODkxMWViOWRjYzU1OGJkNjI1ZjVkZA==)
+
 
 
 
