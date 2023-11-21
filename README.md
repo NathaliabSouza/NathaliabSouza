@@ -20,6 +20,13 @@ Estou entusiasmada com as oportunidades futuras no campo da tecnologia e estou s
 
 Estou sempre aberta a novas conexões e oportunidades de colaboração. Sinta-se à vontade para entrar em contato comigo se você compartilha interesses semelhantes ou se acredita que podemos trabalhar juntos.
 
+## Conquistas
+
+- Concluí o bootcamp da Soul Code.
+- Atualmente cursando Gestão da Tecnologia da Informação na Impacta Tecnologia.
+- Quatro certificações, incluindo Fundamentos de UX Design e programação orientada a objetos.
+
+
 ## Projetos Destacados
 
 - [Nome do Projeto 1](link_do_projeto_1): Uma breve descrição do Projeto 1.
@@ -35,6 +42,9 @@ Estou sempre aberta a novas conexões e oportunidades de colaboração. Sinta-se
 Você pode entrar em contato comigo pelo email: naah.bs3@outlook.com
 
 Obrigado por visitar meu perfil! 😊
+
+![GIF do Projeto]([url_do_seu_gif.gif](https://images-cdn.newscred.com/Zz04NjA3ZjljMjQ0ODkxMWViOWRjYzU1OGJkNjI1ZjVkZA==)https://images-cdn.newscred.com/Zz04NjA3ZjljMjQ0ODkxMWViOWRjYzU1OGJkNjI1ZjVkZA==)
+
 
 
 
