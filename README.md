@@ -16,7 +16,7 @@ Eu sou [Seu Nome], um(a) [sua profissão] apaixonado(a) por [suas áreas de inte
 
 ## Conecte-se Comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-<seu_usuario_no_linkedin>-blue)]([url_do_seu_perfil_no_linkedin](https://www.linkedin.com/in/nathalia-bernardo-636488186/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-<seu_usuario_no_linkedin>-blue)][([url_do_seu_perfil_no_linkedin](https://www.linkedin.com/in/nathalia-bernardo-636488186/))](https://www.linkedin.com/in/nathalia-bernardo-636488186/)
 [![GitHub](https://img.shields.io/badge/GitHub-<seu_usuario_no_github>-green)](link_do_seu_repositorio_no_github)
 
 ## Estatísticas GitHub
