@@ -1,14 +1,5 @@
-- 👋 Hi, I’m @NathaliabSouza
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-NathaliabSouza/NathaliabSouza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-# [Seu Nome]
+# [Me chamo Nathalia]
 
 Bem-vindo ao meu perfil GitHub! 👋
 
@@ -34,6 +25,6 @@ Eu sou [Seu Nome], um(a) [sua profissão] apaixonado(a) por [suas áreas de inte
 
 ## Entre em Contato
 
-Você pode entrar em contato comigo pelo email: [seu_email@example.com]
+Você pode entrar em contato comigo pelo email: [naah.bs3@outlook.com]
 
 Obrigado por visitar meu perfil! 😊
