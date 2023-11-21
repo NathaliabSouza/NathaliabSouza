@@ -34,7 +34,7 @@ Estou sempre aberta a novas conexões e oportunidades de colaboração. Sinta-se
 
 ## Entre em Contato
 
-Você pode entrar em contato comigo pelo email: [naah.bs3@outlook.com]
+Você pode entrar em contato comigo pelo email: naah.bs3@outlook.com
 
 Obrigado por visitar meu perfil! 😊
 
