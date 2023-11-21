@@ -1,3 +1,14 @@
+## Estilo CSS
+
+Aqui está um exemplo de código CSS para adicionar cores preta e roxa escura à tela:
+
+```css
+body {
+    background-color: #000; /* Preto */
+    color: #8b008b; /* Roxo Escuro */
+}
+
+/* Adicione estilos adicionais conforme necessário */
 
 
 # Nathalia Bernardo
