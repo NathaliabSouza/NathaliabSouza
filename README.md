@@ -1,12 +1,14 @@
 
+
+# Nathalia Bernardo
+
 Bem-vindo ao meu perfil GitHub! 👋
 
 ## Sobre Mim
 
-Olá! 
-Me chamo Nathalia, tenho 28 anos e sou mamãe do Pedro. E minha jornada no mundo da tecnologia tem sido incrivelmente empolgante.
+Olá! Me chamo Nathalia, tenho 28 anos e sou mamãe do Pedro. Minha jornada no mundo da tecnologia tem sido incrivelmente empolgante.
 
-Ao longo do último ano, me dediquei aos estudos de Salesforce, mas minha paixão por tecnologia vem de longa data. Meu ponto de partida foi o bootcamp da Soul Code, que me permitiu uma imersão profunda no mundo da tecnologia e do ecossistema Salesforce. Lá, tive uma boa base para atuar pela sottama, uma oportunidade de atuar como desenvolvedora salesforce, onde tive experiência com bootstrap, workflows, process builder, experience builder, low code, administração da plataforma, o que me proporcionou insights valiosos sobre as rotinas e demandas do setor.
+Ao longo do último ano, me dediquei aos estudos de Salesforce, mas minha paixão por tecnologia vem de longa data. Meu ponto de partida foi o bootcamp da Soul Code, que me permitiu uma imersão profunda no mundo da tecnologia e do ecossistema Salesforce. Lá, tive uma boa base para atuar pela Sottama, uma oportunidade de atuar como desenvolvedora Salesforce, onde tive experiência com bootstrap, workflows, process builder, experience builder, low code, administração da plataforma, o que me proporcionou insights valiosos sobre as rotinas e demandas do setor.
 
 Minha busca por conhecimento me levou à Impacta Tecnologia, onde atualmente estou cursando Gestão da Tecnologia da Informação. Além disso, estou aprimorando minhas habilidades de web design no SENAI como parte de uma formação continuada.
 
@@ -25,14 +27,14 @@ Estou sempre aberta a novas conexões e oportunidades de colaboração. Sinta-se
 
 ## Conecte-se Comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-<seu_usuario_no_linkedin>-blue)](in/nathalia-bernardo-636488186/)
-[![GitHub](https://img.shields.io/badge/GitHub-<seu_usuario_no_github>-green)](link_do_seu_repositorio_no_github)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-NathaliaBernardo-blue)](https://www.linkedin.com/in/nathalia-bernardo-636488186/)
+[![GitHub](https://img.shields.io/badge/GitHub-NathaliaBernardo-green)](link_do_seu_repositorio_no_github)
 
 ## Entre em Contato
 
 Você pode entrar em contato comigo pelo email: naah.bs3@outlook.com
 
 Obrigado por visitar meu perfil! 😊
+
 
 
