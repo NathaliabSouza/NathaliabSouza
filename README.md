@@ -2,7 +2,8 @@
 
 Bem-vindo ao meu perfil GitHub! 👋
 
-![Sua Foto](url_da_sua_foto.jpg)
+![Sua Foto](![image](https://github.com/NathaliabSouza/NathaliabSouza/assets/151152414/0828cef7-d10f-4f19-b00e-6419dc38d317)
+)
 
 ## Sobre Mim
 
