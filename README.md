@@ -1,83 +1,27 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Seu Nome - GitHub</title>
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            background-color: #f5f5f5;
-            color: #333;
-            text-align: center;
-            margin: 20px;
-        }
+# [Seu Nome]
 
-        h1 {
-            color: #0366d6;
-        }
+Bem-vindo ao meu perfil GitHub! 👋
 
-        img {
-            border-radius: 50%;
-            max-width: 200px;
-            margin-top: 20px;
-        }
+![Sua Foto](url_da_sua_foto.jpg)
 
-        p {
-            margin-top: 20px;
-        }
+## Sobre Mim
 
-        .social-buttons {
-            margin-top: 20px;
-            display: flex;
-            justify-content: center;
-            gap: 10px;
-        }
+Eu sou [Seu Nome], um(a) [sua profissão] apaixonado(a) por [suas áreas de interesse]. Este é o meu espaço para compartilhar projetos e colaborar com a comunidade.
 
-        .stats {
-            margin-top: 20px;
-        }
-    </style>
-</head>
-<body>
+## Projetos Destacados
 
-    <h1>Seu Nome</h1>
+- [Nome do Projeto 1](link_do_projeto_1): Uma breve descrição do Projeto 1.
+- [Nome do Projeto 2](link_do_projeto_2): Uma breve descrição do Projeto 2.
 
-    <p>Bem-vindo ao meu perfil GitHub! 👋</p>
+## Conecte-se Comigo
 
-    <img src="url_da_sua_foto.jpg" alt="Sua Foto">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-<seu_usuario_no_linkedin>-blue)](url_do_seu_perfil_no_linkedin)
+[![GitHub](https://img.shields.io/badge/GitHub-<seu_usuario_no_github>-green)](link_do_seu_repositorio_no_github)
 
-    <p>Eu sou [Seu Nome], um(a) [sua profissão] apaixonado(a) por [suas áreas de interesse]. Este é o meu espaço para compartilhar projetos e colaborar com a comunidade.</p>
 
-    <h2>Projetos Destacados</h2>
+## Entre em Contato
 
-    <ul>
-        <li><a href="link_do_projeto_1">Nome do Projeto 1</a>: Uma breve descrição do Projeto 1.</li>
-        <li><a href="link_do_projeto_2">Nome do Projeto 2</a>: Uma breve descrição do Projeto 2.</li>
-    </ul>
+Você pode entrar em contato comigo pelo email: [seu_email@example.com]
 
-    <h2>Conecte-se Comigo</h2>
+Obrigado por visitar meu perfil! 😊
 
-    <div class="social-buttons">
-        <a href="url_do_seu_perfil_no_linkedin">
-            <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin">
-        </a>
-        <a href="link_do_seu_repositorio_no_github">
-            <img src="https://img.shields.io/badge/GitHub-Follow-green?style=flat-square&logo=github">
-        </a>
-    </div>
-
-    <h2>Estatísticas GitHub</h2>
-
-    <div class="stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=seu_usuario_no_github&show_icons=true&theme=dark" alt="Estatísticas GitHub">
-    </div>
-
-    <h2>Entre em Contato</h2>
-
-    <p>Você pode entrar em contato comigo pelo email: <a href="mailto:seu_email@example.com">seu_email@example.com</a></p>
-
-    <p>Obrigado por visitar meu perfil! 😊</p>
-
-</body>
-</html>
